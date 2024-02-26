@@ -42,7 +42,7 @@ async function accessSpreedsheet() {
     let currentRowCountPP = sheetProfilePegawai.rowCount;
 
   do{
-    await delay(2000)
+    await delay(3000)
 
     try{
 

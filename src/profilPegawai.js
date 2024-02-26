@@ -14,7 +14,7 @@ class profilePegawai {
       "1. Unduh formulir penambahan Anggota Keluarga diatas\n" +
       "2. Mengisi Form Penambahan Anggota Keluarga\n" +
       "3. Melengkapi persyaratan sesuai form\n"+
-      "4. Kirimkan Scan berkas tsb ke email yaniar@pln.co.id atau wahyu.susanto@pln.co.id\n\n"+
+      "4. Kirimkan Scan berkas tsb ke email yaniar@pln.co.id atau kamila.habiba@pln.co.id\n\n"+
       "Ketik /Menu untuk kembali ke Menu Utama"
     )
   }
